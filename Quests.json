@@ -1,0 +1,26 @@
+[
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 8,
+      "TokensReward": 500,
+      "CurrentLevel": 0,
+      "MaxLevel": 0,
+      "Timer": 5184000,
+      "QuestState": 2,
+      "BrawlerID": 54,
+      "GameMode": -1
+   },
+   {
+      "MissionType": 1,
+      "AchievedGoal": 0,
+      "QuestGoal": 1,
+      "TokensReward": 100,
+      "CurrentLevel": 0,
+      "MaxLevel": 5,
+      "Timer": 51800,
+      "QuestState": 2,
+      "BrawlerID": -1,
+      "GameMode": 7
+   }
+]
